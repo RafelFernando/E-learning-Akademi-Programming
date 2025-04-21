@@ -9,3 +9,5 @@ User yang tersedia ada 3 yaitu
 Bahasa pemrograman dan database:
 1. Python flask
 2. PHPMyAdmin
+
+Link aplikasi : https://drive.google.com/file/d/1MmBExHMEuIiGRXf0XP16KVrQe9mgo4KN/view?usp=sharing
